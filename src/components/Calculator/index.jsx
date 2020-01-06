@@ -10,7 +10,7 @@ const CalculatorContainer = styled.div`
   border-color: #888;
   border-style: solid;
   border-width: 1px;
-  font-family: Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif
+  font-family: Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
 `;
 
 const DetailsContainer = styled.div`
