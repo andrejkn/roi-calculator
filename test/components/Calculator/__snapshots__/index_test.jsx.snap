@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calculator component test should match snapshot 1`] = `
+<div
+  className="sc-bxivhb qwNia"
+>
+  <div
+    className="sc-ifAKCX dkZAhS"
+  >
+    MONTHLY PAYMENT
+    <div
+      className="sc-EHOje gUwQEo"
+    >
+      $1,500 rent + $ 0 investment
+    </div>
+    <div
+      className="sc-bZQynM kkMeLI"
+    >
+      INITIAL INVESTMENT
+    </div>
+    <div
+      className="sc-bdVaJa kuQLoz"
+    >
+      <div
+        className="sc-bwzfXH gJIwTT"
+      >
+        $2,100
+      </div>
+      <input
+        className="sc-htpNat daVAfG"
+        max={12600}
+        min={2100}
+        onChange={[Function]}
+        step={25}
+        type="range"
+        value={2100}
+      />
+    </div>
+    <div
+      className="sc-bZQynM kkMeLI"
+    >
+      MONTHLY INVESTMENT
+    </div>
+    <div
+      className="sc-bdVaJa kuQLoz"
+    >
+      <div
+        className="sc-bwzfXH gJIwTT"
+      >
+        $0
+      </div>
+      <input
+        className="sc-htpNat daVAfG"
+        max={500}
+        min={0}
+        onChange={[Function]}
+        step={5}
+        type="range"
+        value={0}
+      />
+    </div>
+    <div
+      className="sc-bZQynM kkMeLI"
+    >
+      YEARS WITH UP&UP
+    </div>
+    <div
+      className="sc-bdVaJa kuQLoz"
+    >
+      <div
+        className="sc-bwzfXH gJIwTT"
+      >
+        5 years
+      </div>
+      <input
+        className="sc-htpNat daVAfG"
+        max={10}
+        min={1}
+        onChange={[Function]}
+        step={1}
+        type="range"
+        value={5}
+      />
+    </div>
+    <div
+      className="sc-bZQynM kkMeLI"
+    >
+      OWNERSHIP VALUE
+    </div>
+    <div>
+      $2,100
+    </div>
+  </div>
+</div>
+`;
