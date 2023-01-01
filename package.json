@@ -16,18 +16,18 @@
     "lint": "eslint --cache --format codeframe --ext mjs,jsx,js src test"
   },
   "devDependencies": {
-    "@neutrinojs/airbnb": "^9.0.0",
+    "@neutrinojs/airbnb": "^9.5.0",
     "@neutrinojs/jest": "^9.0.0",
-    "@neutrinojs/react-components": "^9.0.0",
-    "@neutrinojs/style-loader": "^9.0.0",
+    "@neutrinojs/react-components": "^9.5.0",
+    "@neutrinojs/style-loader": "^9.5.0",
     "eslint": "^6",
     "jest": "^24",
     "neutrino": "^9.0.0",
     "prop-types": "^15",
     "react": "^16",
     "react-dom": "^16",
-    "webpack": "^4",
-    "webpack-cli": "^3",
+    "webpack": "^5",
+    "webpack-cli": "^5",
     "webpack-dev-server": "^3"
   },
   "dependencies": {
